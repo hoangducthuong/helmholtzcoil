@@ -1,1 +1,1 @@
-# helmholtzcoil
+# helmholtz coil
